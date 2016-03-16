@@ -1,4 +1,4 @@
-package br.com.handit.maven-app-sample;
+package br.com.handit;
 
 /**
  * Hello world!
