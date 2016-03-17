@@ -10,12 +10,12 @@
   <url>http://maven.apache.org</url>
 
   <properties>
-     <snapshot_repo_name>Snapshots Repo</snapshot_repo_name>
-     <snapshot_repo_id>snapshots-repo</snapshot_repo_id>
+     <snapshot_repo_name>Snapshots</snapshot_repo_name>
+     <snapshot_repo_id>snapshots</snapshot_repo_id>
      <snapshot_repo_url>http://192.168.25.24:8081/nexus/content/repositories/snapshots</snapshot_repo_url>
 
-     <release_repo_name>Releases Repo</release_repo_name>
-     <release_repo_id>releases-repo</release_repo_id>
+     <release_repo_name>Releases</release_repo_name>
+     <release_repo_id>releases</release_repo_id>
      <release_repo_url>http://192.168.25.24:8081/nexus/content/repositories/releases</release_repo_url>
   </properties>
 
