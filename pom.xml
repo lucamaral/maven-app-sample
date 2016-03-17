@@ -5,7 +5,7 @@
   <groupId>br.com.handit</groupId>
   <artifactId>maven-app-sample</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.2</version>
+  <version>SNAPSHOT</version>
   <name>maven-app-sample</name>
   <url>http://maven.apache.org</url>
 
